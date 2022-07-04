@@ -4,7 +4,7 @@ Overview of Project:
 Summary os results and comparison on codes
 The data base used has 3012 rows which represents trnasactions by ticker and by day and 2 separate worksheet for each year (2017 and 2018). 
 After analysing the data, it is noted that the volume of transactions in 2018 increase by 4% compared to 2017.
-Table comparison_collors.png
+[Table comparison_collors.png](https://github.com/taislevens/Challenge_file/blob/main/Table%20comparison_collors.png)
 
 It was also possible to calculate the return of the stock on that year by dividing the ending price to the closing price.
 After running this to all the stocks, and even though the volume of transactions was higher in 2018, the return of most of the securities were negative, except for 2: ENPH and RUN.
